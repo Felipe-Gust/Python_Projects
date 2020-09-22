@@ -65,4 +65,4 @@ if avg_final >= average:
   print("Aluno aprovado, média final maior que ", average, ".")
 else:
   print("Aluno reprovado, média final menor que ", average, ".")
-  
+ 
